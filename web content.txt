@@ -1,0 +1,33 @@
+PL
+c++
+python
+html
+css
+javascript
+c
+sql
+ruby
+php
+java
+django
+
+
+
+
+
+
+
+
+Computer Science
+intro to programming
+oop
+structure programmning
+computer architecture
+data stuctures
+intro to web design
+github and git
+os
+design patterns
+docker
+discrete math
+calculus
