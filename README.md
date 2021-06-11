@@ -1,4 +1,4 @@
-# A collection CS/Programming tutorials from Youtube
+# A collection CS/Programming tutorials and courses from various creator in Youtube
 ## link here: <https://ahnghie.github.io/>
 
 ### Language Used: `JavaScript`  `HTML`  `CSS`  
