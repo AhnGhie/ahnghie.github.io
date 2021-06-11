@@ -1,2 +1,6 @@
-# A collection of youtube tutorials for Computer Science
-link here: <https://ahnghie.github.io/>
+# A collection CS/Programming tutorials from Youtube
+## link here: <https://ahnghie.github.io/>
+
+### Language Used: `JavaScript`  `HTML`  `CSS`  
+### Template: `Full Motion by TEMPLATED.CO`  
+Template link here: <http://fmtemplate.net/index.php/?pageName=template~template&bidx=1&sidx=2&pageMode=read&contentIdx=42>
