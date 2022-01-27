@@ -1,9 +1,10 @@
 # A collection CS/Programming tutorials and courses from various creators from Youtube
-## link here: <https://ahnghie.github.io/>
+## link: <https://ahnghie.github.io/>
+![2022-01-27 14 12 01 ahnghie github io 2cf3c39930a9](https://user-images.githubusercontent.com/26546596/151302014-23a088b4-14ac-4196-9461-a5cb93a1d936.png)
 
 ### Language Used: `JavaScript`  `HTML`  `CSS`  
 ### Template: `Full Motion by TEMPLATED.CO`  
-Template link here: <http://fmtemplate.net/index.php/?pageName=template~template&bidx=1&sidx=2&pageMode=read&contentIdx=42>
+Template: <http://fmtemplate.net/index.php/?pageName=template~template&bidx=1&sidx=2&pageMode=read&contentIdx=42>
 
 ## License
 
